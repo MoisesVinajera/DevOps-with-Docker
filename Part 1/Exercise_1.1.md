@@ -6,8 +6,6 @@ Stop 2 of the containers leaving 1 up.
 
 Submit the output for docker ps -a which shows 2 stopped containers and one running.
 
-&nbsp;
-
 ### Steps
 
 - docker container run -d nginx
