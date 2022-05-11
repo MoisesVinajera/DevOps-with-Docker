@@ -46,4 +46,6 @@ Submit the output for docker ps -a and docker images
 
 - docker images
 
+### Results
+
 ![Exercise 1.2: Docker image](Exercise_1.2_docker_image_after.png)
